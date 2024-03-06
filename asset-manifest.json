@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deepfake-video-detection-project/static/css/main.4060f786.css",
+    "main.js": "/deepfake-video-detection-project/static/js/main.ecb527c3.js",
+    "static/js/453.a48e598c.chunk.js": "/deepfake-video-detection-project/static/js/453.a48e598c.chunk.js",
+    "index.html": "/deepfake-video-detection-project/index.html",
+    "main.4060f786.css.map": "/deepfake-video-detection-project/static/css/main.4060f786.css.map",
+    "main.ecb527c3.js.map": "/deepfake-video-detection-project/static/js/main.ecb527c3.js.map",
+    "453.a48e598c.chunk.js.map": "/deepfake-video-detection-project/static/js/453.a48e598c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4060f786.css",
+    "static/js/main.ecb527c3.js"
+  ]
+}
