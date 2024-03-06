@@ -1,5 +1,5 @@
 {
-  "homepage": "https://znis.github.io/deepfake-video-detection-project",
+  "homepage": "https://znis.github.io/deepfake-video-detection-webapp",
   "name": "df-frontend",
   "version": "0.1.0",
   "private": true,
