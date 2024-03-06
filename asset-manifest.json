@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/deepfake-video-detection-webapp/static/css/main.4060f786.css",
-    "main.js": "/deepfake-video-detection-webapp/static/js/main.8cd76bb8.js",
-    "static/js/453.a48e598c.chunk.js": "/deepfake-video-detection-webapp/static/js/453.a48e598c.chunk.js",
-    "index.html": "/deepfake-video-detection-webapp/index.html",
-    "main.4060f786.css.map": "/deepfake-video-detection-webapp/static/css/main.4060f786.css.map",
-    "main.8cd76bb8.js.map": "/deepfake-video-detection-webapp/static/js/main.8cd76bb8.js.map",
-    "453.a48e598c.chunk.js.map": "/deepfake-video-detection-webapp/static/js/453.a48e598c.chunk.js.map"
+    "main.css": "/static/css/main.4060f786.css",
+    "main.js": "/static/js/main.afec4633.js",
+    "static/js/453.a48e598c.chunk.js": "/static/js/453.a48e598c.chunk.js",
+    "index.html": "/index.html",
+    "main.4060f786.css.map": "/static/css/main.4060f786.css.map",
+    "main.afec4633.js.map": "/static/js/main.afec4633.js.map",
+    "453.a48e598c.chunk.js.map": "/static/js/453.a48e598c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4060f786.css",
-    "static/js/main.8cd76bb8.js"
+    "static/js/main.afec4633.js"
   ]
 }
